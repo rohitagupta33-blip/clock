@@ -12,7 +12,7 @@ No installation or build step is required.
 You can also serve the folder with any local static file server and open the resulting local URL.
 
 ## Project structure
-
+f2
 - `clock.html` - Defines the clock face, numbers, and hands.
 - `style.css` - Controls the clock layout and visual styling.
 - `script.js` - Reads the current time and rotates the hands once per second.
